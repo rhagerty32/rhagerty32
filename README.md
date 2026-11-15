@@ -7,8 +7,6 @@ Founder of [Spot Parking](https://spotparking.com). I build small, sharp tools f
 | [Annotator](https://github.com/rhagerty32/annotator) | Fast macOS screenshot annotator with hotkeys, clipboard export, OCR, and optional Raycast commands. | Swift |
 | [TopNotch Terminal](https://github.com/rhagerty32/topnotch-terminal) | A terminal that lives in the MacBook notch—hover to open, pin, or pop out. | Swift |
 | [Tap](https://github.com/rhagerty32/tap) | Press-and-hold menu-bar app that flashes a glow on a teammate's screen over LAN or Tailscale, no server. | Rust/Tauri |
-| [Auto Window](https://github.com/rhagerty32/auto-window) | Free Raycast extension to save and restore multi-monitor window layouts. | TypeScript |
-| [Scoring](https://github.com/rhagerty32/scoring) | Shared-room live scoring for card games like Nertz—[live demo](https://scoring-ten.vercel.app). | Next.js |
 
 ## Want to help?
 
